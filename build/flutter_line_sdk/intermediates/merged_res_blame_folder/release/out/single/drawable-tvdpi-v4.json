@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/drawable-tvdpi-v4/btn_login_press.9.png",
+        "source": "com.linecorp.flutter_line_sdk-jetified-linesdk-5.8.1-2:/drawable-tvdpi-v4/btn_login_press.9.png"
+    },
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/drawable-tvdpi-v4/btn_login_base.9.png",
+        "source": "com.linecorp.flutter_line_sdk-jetified-linesdk-5.8.1-2:/drawable-tvdpi-v4/btn_login_base.9.png"
+    },
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/drawable-tvdpi-v4/btn_login_disable.9.png",
+        "source": "com.linecorp.flutter_line_sdk-jetified-linesdk-5.8.1-2:/drawable-tvdpi-v4/btn_login_disable.9.png"
+    }
+]

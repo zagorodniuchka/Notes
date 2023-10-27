@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "com.linecorp.flutter_line_sdk-material-1.0.0-9:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "com.linecorp.flutter_line_sdk-material-1.0.0-9:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "com.linecorp.flutter_line_sdk-material-1.0.0-9:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    }
+]

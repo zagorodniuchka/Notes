@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-0 C:\Users\User\.gradle\caches\transforms-3\45bc225f0335b1a27bc406f264bf9892\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-1 C:\Users\User\.gradle\caches\transforms-3\61ac63ec60b47817c1f0d5a77a9b8e11\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-2 C:\Users\User\.gradle\caches\transforms-3\7d21805b05bd3efb5a4e0aca561a5f80\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-3 C:\Users\User\.gradle\caches\transforms-3\8ebb6d242227f9156fb6b017f531ad43\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.3-4 C:\Users\User\.gradle\caches\transforms-3\ab109c50a8362f0c3a7aee93885ab2f7\transformed\jetified-firebase-common-20.3.3\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-5 C:\Users\User\.gradle\caches\transforms-3\b61940e93b351ea18870f2a4d0327f48\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-6 C:\Users\User\.gradle\caches\transforms-3\da97aaf6c7e22e7e710b7f19ac06880c\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.12.1\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.12.1\android\src\release\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 C:\Users\User\Downloads\Notes\Notes\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 C:\Users\User\Downloads\Notes\Notes\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 C:\Users\User\Downloads\Notes\Notes\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 C:\Users\User\Downloads\Notes\Notes\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 C:\Users\User\Downloads\Notes\Notes\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 C:\Users\User\Downloads\Notes\Notes\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 C:\Users\User\Downloads\Notes\Notes\build\firebase_core\intermediates\packaged_res\release

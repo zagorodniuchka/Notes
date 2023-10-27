@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.notes.app-mergeReleaseResources-35:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\422acba37427682f54ab686cac247f60\\transformed\\jetified-linesdk-5.8.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,152,198,252,304,355,409,456,516,565,613,665,730,783,837,888,949,998,1044,1093,1152,1209",
+                        "endColumns": "44,51,45,53,51,50,53,46,59,48,47,51,64,52,53,50,60,48,45,48,58,56,57",
+                        "endOffsets": "95,147,193,247,299,350,404,451,511,560,608,660,725,778,832,883,944,993,1039,1088,1147,1204,1262"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\Downloads\\Notes\\Notes\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "175,831",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "482,997"
+                    },
+                    "to": {
+                        "startLines": "25,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1267,1448",
+                        "endLines": "28,31",
+                        "endColumns": "12,12",
+                        "endOffsets": "1443,1612"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-3\\8d285336318111a64204b1a97eedc1c8\\transformed\\appcompat-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "32,33,34,35,36,37,38,39",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1617,1687,1771,1855,1951,2053,2155,2249",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "1682,1766,1850,1946,2048,2150,2244,2333"
+                    }
+                }
+            ]
+        }
+    ]
+}

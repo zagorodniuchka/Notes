@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/menu/menu_profile_info.xml",
+        "source": "com.linecorp.flutter_line_sdk-jetified-linesdk-5.8.1-2:/menu/menu_profile_info.xml"
+    },
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/menu/menu_openchat_info.xml",
+        "source": "com.linecorp.flutter_line_sdk-jetified-linesdk-5.8.1-2:/menu/menu_openchat_info.xml"
+    }
+]

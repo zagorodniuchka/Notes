@@ -1,0 +1,13 @@
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-0 C:\Users\User\.gradle\caches\transforms-3\2464ea48a5d603d8e82b1bb84a06450f\transformed\media-1.1.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-java-1.0.0-beta04-1 C:\Users\User\.gradle\caches\transforms-3\45bc225f0335b1a27bc406f264bf9892\transformed\jetified-window-java-1.0.0-beta04\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-1.0.0-beta04-2 C:\Users\User\.gradle\caches\transforms-3\7d21805b05bd3efb5a4e0aca561a5f80\transformed\jetified-window-1.0.0-beta04\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-annotation-experimental-1.1.0-3 C:\Users\User\.gradle\caches\transforms-3\8ebb6d242227f9156fb6b017f531ad43\transformed\jetified-annotation-experimental-1.1.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-4 C:\Users\User\.gradle\caches\transforms-3\da97aaf6c7e22e7e710b7f19ac06880c\transformed\core-1.6.0\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-main-5 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-16.1.0\android\src\main\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-release-6 C:\Users\User\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-16.1.0\android\src\release\res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-pngs-7 C:\Users\User\Downloads\Notes\Notes\build\flutter_local_notifications\generated\res\pngs\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-resValues-8 C:\Users\User\Downloads\Notes\Notes\build\flutter_local_notifications\generated\res\resValues\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-rs-9 C:\Users\User\Downloads\Notes\Notes\build\flutter_local_notifications\generated\res\rs\release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-10 C:\Users\User\Downloads\Notes\Notes\build\flutter_local_notifications\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-11 C:\Users\User\Downloads\Notes\Notes\build\flutter_local_notifications\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-12 C:\Users\User\Downloads\Notes\Notes\build\flutter_local_notifications\intermediates\merged_res\release

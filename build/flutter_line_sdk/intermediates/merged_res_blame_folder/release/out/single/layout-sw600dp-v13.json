@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.linecorp.flutter_line_sdk-material-1.0.0-9:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.linecorp.flutter_line_sdk-material-1.0.0-9:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

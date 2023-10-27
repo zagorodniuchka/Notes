@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "com.linecorp.flutter_line_sdk-fragment-1.2.0-8:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "com.linecorp.flutter_line_sdk-material-1.0.0-9:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "com.linecorp.flutter_line_sdk-merged_res-32:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "com.linecorp.flutter_line_sdk-material-1.0.0-9:/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
